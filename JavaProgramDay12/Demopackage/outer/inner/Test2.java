@@ -1,6 +1,9 @@
 package outer.inner;
-public class Test2{
-public void disp()
+public class Test2
 {
-System.out.println(x:"In inner package");
-}}
+   public void disp()
+   {
+      System.out.println("In inner package");
+      
+   }
+}
